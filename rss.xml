@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[myusic]]></title>
+        <description><![CDATA[myusic]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 14 Aug 2016 13:36:27 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Led Zeppelin Announce Expanded 'Complete BBC Sessions']]></title>
+            <description><![CDATA[<article><h1>Led Zeppelin Announce Expanded 'Complete BBC Sessions'</h1><p>A year after Led Zeppelin issued their final catalogue reissues, the group has uncovered more rarities: eight unreleased recordings they made for the BBC, including a "lost" three-song session from 1969. These new discoveries will round out an expanded and remastered edition of the band's 1997 release, BBC Sessions, which covers recordings made between 1969 and 1971, for what it has renamed The Complete BBC Sessions.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/62658f90f8ec33c120be7de9353a6359/noop.jpg?input=http%3A%2F%2Fimg.wennermedia.com%2Fsocial%2Frs-led-zeppelin-40607ceb-18fd-42b6-b666-749c1753297f.jpg"></article>]]></description>
+            <link>http://www.rollingstone.com/music/news/led-zeppelin-announce-expanded-complete-bbc-sessions-w429790</link>
+            <guid isPermaLink="false">669eed1b-edad-4c6e-bf27-468aaa3385d6</guid>
+            <pubDate>Sun, 14 Aug 2016 13:36:26 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
