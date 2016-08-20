@@ -4,12 +4,12 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 typography_spectrum: 0.5716846
 color:
   saturation: 0
@@ -22,5 +22,5 @@ color:
     - '#585858'
     - '#8A8A8A'
   lightness: 0
-layout_spectrum: 0.1415771
+layout_spectrum: 0.3584229
 name: musicinhands
