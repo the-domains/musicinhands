@@ -4,8 +4,15 @@
         <description><![CDATA[myusic]]></description>
         <link>https://thegrid.ai/musicinhands/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Aug 2016 11:48:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Aug 2016 11:48:15 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/musicinhands/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Red Hot Chili Peppers Start Dance Party at Lolla]]></title>
+            <description><![CDATA[<article><h1>Red Hot Chili Peppers Start Dance Party at Lolla</h1><p>Watch the Red Hot Chili Peppers get playful at Lollapalooza 2016. Updated with video of Red Hot Chili Peppers' Anthony Kiedis serenading festival sign-language interpreter Amber Galloway Gallego during "Under the Bridge" at Lollapalooza 2016. CHICAGO - Everyone who's involved with, attending or even thinking about this year's Lollapalooza has come down with a slight case of nostalgia.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/43d08c765ff31cc9f97a50b2dc00fc97/noop.jpg?input=http%3A%2F%2Fimage3.redbull.com%2Frbcom%2F010%2F2016-07-31%2F1331809527466_2%2F0010%2F1%2F1500%2F1000%2F2%2Fred-hot-chili-peppers-at-lollapalooza.jpg"></article>]]></description>
+            <link>http://www.redbull.com/us/en/music/stories/1331809511969/red-hot-chili-peppers-get-playful-at-lollapalooza</link>
+            <guid isPermaLink="false">5ae1b76f-0bb6-4829-ab78-f861fe52b682</guid>
+            <pubDate>Sat, 20 Aug 2016 11:48:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Led Zeppelin Announce Expanded 'Complete BBC Sessions']]></title>
             <description><![CDATA[<article><h1>Led Zeppelin Announce Expanded 'Complete BBC Sessions'</h1><p>A year after Led Zeppelin issued their final catalogue reissues, the group has uncovered more rarities: eight unreleased recordings they made for the BBC, including a "lost" three-song session from 1969. These new discoveries will round out an expanded and remastered edition of the band's 1997 release, BBC Sessions, which covers recordings made between 1969 and 1971, for what it has renamed The Complete BBC Sessions.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/62658f90f8ec33c120be7de9353a6359/noop.jpg?input=http%3A%2F%2Fimg.wennermedia.com%2Fsocial%2Frs-led-zeppelin-40607ceb-18fd-42b6-b666-749c1753297f.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://pitchfork.com/news/66966-kendrick-rihanna-metallica-set-for-global-citizen-festival/</link>
             <guid isPermaLink="false">865790aa-ad80-4228-b8c3-f961387ae6f2</guid>
             <pubDate>Sat, 20 Aug 2016 11:47:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Guns N' Roses 'Not in This Lifetime' Tour Among Top-Priced Summer Tickets]]></title>
-            <description><![CDATA[<article><h1>Guns N' Roses 'Not in This Lifetime' Tour Among Top-Priced Summer Tickets</h1><p>Guns N' Roses have just a few weeks left of their Not In This Lifetime headlining reunion tour, and tickets remain some of the most competitively priced of the summer. Their North American trek began back in June, and will continue to run throughout August where it'll wrap up at San Diego.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/93ba3fa4cebf76e5197705571e328951/noop.jpeg?input=http%3A%2F%2Fimages.musictimes.com%2Fdata%2Fimages%2Ffull%2F68571%2F2016-coachella-valley-music-and-arts-festival-weekend-2-day-2.jpeg"></article>]]></description>
-            <link>http://www.musictimes.com/articles/71878/20160726/guns-n-roses-lifetime-tour-top-priced-summer-tickets.htm</link>
-            <guid isPermaLink="false">d140159c-939e-4ede-b882-c408fa21ef16</guid>
-            <pubDate>Sat, 20 Aug 2016 11:47:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
