@@ -10,7 +10,6 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.5716846
 color:
   saturation: 0
   brandStrength: 0
@@ -22,5 +21,6 @@ color:
     - '#585858'
     - '#8A8A8A'
   lightness: 0
-layout_spectrum: 0.8584229
+typography_spectrum: 0.5716846
+layout_spectrum: 0.3100359
 name: musicinhands
